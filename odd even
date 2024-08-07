@@ -1,0 +1,7 @@
+n=as.integer(readline("enter number"))
+if((n%%2)==0)
+{
+  cat("even")
+  }else{
+  cat("odd")
+}
